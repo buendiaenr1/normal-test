@@ -1,5 +1,6 @@
 # normal-test        Julia
 
+## using Distributions
 
 Translation of matlab to Julia
 
